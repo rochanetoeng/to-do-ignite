@@ -27,7 +27,7 @@ export function Home() {
     foundItem.done = !foundItem.done
     setTasks(updateTasks)
 
-    //TODO - toggle task done if exists
+    //TODO - toggle task done if existss
   }
 
   function handleRemoveTask(id: number) {
